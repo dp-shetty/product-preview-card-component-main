@@ -19,13 +19,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/preview.jpg.jpg)
+![](https://github.com/dp-shetty/images/preview.jpg.jpg)
 
 
 ### Links
 
-- Solution URL:  [Add solution URL here](https://github.com/dp-shetty/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://dp-shetty.github.io/product-preview-card-component-main/index.html)
+- Solution URL:  [solution URL](https://github.com/dp-shetty/product-preview-card-component-main)
+- Live Site URL: [live site URL](https://dp-shetty.github.io/product-preview-card-component-main/index.html)
 
 ### Built with
 
