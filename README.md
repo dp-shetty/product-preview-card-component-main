@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop design](./images/preview.jpg.jpg)
+![Desktop design](./images/preview.jpg)
 ![Mobile design](./images/mobile-design.jpg)
 
 
