@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/dp-shetty/product-preview-card-component-main/images/preview.jpg.jpg)
-![](https://github.com/dp-shetty/product-preview-card-component-main/images/mobile-design.jpg)
+![Desktop design](https://github.com/dp-shetty/product-preview-card-component-main/images/preview.jpg.jpg)
+![Mobile design](https://github.com/dp-shetty/product-preview-card-component-main/images/mobile-design.jpg)
 
 
 ### Links
